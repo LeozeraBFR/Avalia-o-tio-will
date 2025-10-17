@@ -1,4 +1,4 @@
-# AVALIAÇÃO TIO WILL
+# AVALIAÇÃO WILLIAN PYTHON
 
 lista_nomes = []  
 primeira_nota = []  
